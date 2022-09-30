@@ -2,7 +2,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=visualstudiocode,visualstudio,vim,python,pycharm,windows,linux,macos
 
 ### Custum Ignores ###
-
+POTCAR
 
 
 ### Linux ###
